@@ -27,4 +27,10 @@ export const Container = styled.div`
             }
         }
     }
+    .deposit{
+        color:green;
+    }
+    .withdraw{
+        color:red;
+    }
 `
